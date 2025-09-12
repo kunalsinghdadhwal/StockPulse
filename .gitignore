@@ -1,0 +1,32 @@
+bin/
+build/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go modules
+vendor/
+
+# Coverage
+*.cover
+*.cov
+coverage.*
+
+.env
+
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+.vscode/
+.idea/
+*.iml
+
+.DS_Store
+Thumbs.db
